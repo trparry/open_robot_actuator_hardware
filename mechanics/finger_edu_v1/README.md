@@ -89,6 +89,20 @@ Each finger module requires 24V power supply and 2 CAN communication channels.
 * weight: 3g
 
 -------------
+## Bearing
+
+<img src="images/bearing_ET25202ZVA.jpg" width="300"> <br>
+
+* Dimensions: 25mm x 20mm x 4mm
+* Stainless steel
+* Weight: 3,4g each
+
+| Description | Quantity | Ordering Information | Comments |  
+| --- | --- | --- | --- |   
+|Hip AA Bearing<br>25mm x 20mm x 4mm <br> ET2520 2Z VA| 1 | [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Send an email to info@sbn.de and ask for a quote - they ship worldwide. <br> SBN # C07024 <br>We use stainless steel bearings.|
+
+
+-------------
 ## Authors
 Felix Grimminger
 
